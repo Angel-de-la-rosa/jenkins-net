@@ -1,0 +1,11 @@
+D:\DemoTest\MiApp\bin\Debug\net9.0\MiApp.deps.json
+D:\DemoTest\MiApp\bin\Debug\net9.0\MiApp.dll
+D:\DemoTest\MiApp\bin\Debug\net9.0\MiApp.pdb
+D:\DemoTest\MiApp\obj\Debug\net9.0\MiApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\DemoTest\MiApp\obj\Debug\net9.0\MiApp.AssemblyInfoInputs.cache
+D:\DemoTest\MiApp\obj\Debug\net9.0\MiApp.AssemblyInfo.cs
+D:\DemoTest\MiApp\obj\Debug\net9.0\MiApp.csproj.CoreCompileInputs.cache
+D:\DemoTest\MiApp\obj\Debug\net9.0\MiApp.dll
+D:\DemoTest\MiApp\obj\Debug\net9.0\refint\MiApp.dll
+D:\DemoTest\MiApp\obj\Debug\net9.0\MiApp.pdb
+D:\DemoTest\MiApp\obj\Debug\net9.0\ref\MiApp.dll
