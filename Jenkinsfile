@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Clonar repositorio') {
             steps {
-                git 'https://github.com/Angel-de-la-rosa/jenkins-net.git'
+                git branch: 'main', url: 'https://github.com/Angel-de-la-rosa/jenkins-net.git'
             }
         }
 
